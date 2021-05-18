@@ -1,4 +1,4 @@
-# node-express-di
+# node-express-di-boilerplate
 Simple REST service using Node + express + inversify (Node v16.1.0)<br/><br/>
 ![](https://raw.githubusercontent.com/inversify/inversify.github.io/master/img/cover.jpg)<br/><br/>
 
